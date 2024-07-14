@@ -1,5 +1,5 @@
 {
-  "name": "quiz-game",
+  "name": "0me7-quiz-game",
   "version": "1.0.0",
   "description": "A typescript quiz of 7 questions with a secret prize in end.",
   "main": "index.js",
