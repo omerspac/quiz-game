@@ -3,7 +3,6 @@
 import inquirer from "inquirer";
 import chalk from "chalk";
 import chalkAnimation from 'chalk-animation';
-import terminalLink from 'terminal-link';
 
 console.log(chalk.bgBlue.bold("\nTypescript Quiz Game"));
 console.log(chalk.bgRed.bold("\n\nINFORMATION:"));
